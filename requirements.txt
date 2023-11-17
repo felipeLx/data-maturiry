@@ -7,7 +7,7 @@ shillelagh
 gspread
 sox
 ffmpeg
---force-reinstall --no-cache-dir pycairo
+pycairo --force-reinstall --no-cache-dir
 unittest2
 plotly
 google-auth
