@@ -7,7 +7,8 @@ shillelagh
 gspread
 sox
 ffmpeg
-pycairo --force-reinstall --no-cache-dir
+pycairo
+pydub
 unittest2
 plotly
 google-auth
