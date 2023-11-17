@@ -6,6 +6,7 @@ xhtml2pdf
 shillelagh
 gspread
 pycairo
+pkg-config
 unittest2
 plotly
 google-auth
