@@ -7,9 +7,7 @@ shillelagh
 gspread
 sox
 ffmpeg
-pycairo
-mamimlib
-manimce
+--force-reinstall --no-cache-dir pycairo
 unittest2
 plotly
 google-auth
