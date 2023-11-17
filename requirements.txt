@@ -1,0 +1,13 @@
+streamlit
+pandas
+pdfkit
+PyPDF2
+xhtml2pdf
+shillelagh
+gspread
+pycairo
+unittest2
+plotly
+google-auth
+google-auth-oauthlib
+oauth2client

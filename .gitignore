@@ -1,0 +1,6 @@
+*.toml
+streamlit/*.toml
+*.json
+*.hyper
+*.log
+__pycache__
