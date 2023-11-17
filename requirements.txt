@@ -5,8 +5,8 @@ PyPDF2
 xhtml2pdf
 shillelagh
 gspread
-build-essential
-libcairo2-dev
+pycairo
+libcairo2-dev 
 pkg-config
 python3-dev
 unittest2
