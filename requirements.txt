@@ -5,7 +5,12 @@ PyPDF2
 xhtml2pdf
 shillelagh
 gspread
-pycairo
+sox
+ffmpeg
+libcairo2
+libcairo2-dev
+mamimlib
+manimce
 unittest2
 plotly
 google-auth
