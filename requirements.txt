@@ -5,8 +5,10 @@ PyPDF2
 xhtml2pdf
 shillelagh
 gspread
-pycairo --platform=win32 (for Windows)
-pycairo --platform=linux (for Linux)
+build-essential
+libcairo2-dev
+pkg-config
+python3-dev
 unittest2
 plotly
 google-auth
