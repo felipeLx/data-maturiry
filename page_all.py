@@ -123,13 +123,13 @@ page_all = """
             <div class="mt-2 pt-2" style="text-align:left; margin-top: 2px; padding-top: 2px">
                 <span style="font-size:16px; font-weight: normal; color:#292c2e; text-align:justify">A infraestrutura refere-se à base de trabalho, física e tecnológica, que suporta o armazenamento, processamento e acesso a dados em uma organização. Isso envolve servidores, redes, sistemas de armazenamento, bancos de dados e outras tecnologias que permitem a coleta, armazenamento seguro e eficiente, processamento e disponibilização de dados para os usuários e sistemas que deles necessitam. Uma estação sólida de trabalho é crucial para garantir a segurança e integridade dos dados, bem como as entregas e a disponibilidade de informações para a gestão.&nbsp;</span>
                 <br><br>
-                <div style="width: 100%; height: auto;  place-items: center; padding-botton: 24px; padding-top: 32px;">
+                <div style="width: 100%; height: auto;  place-items: center; margin: 48px 0 12px 0;">
                     <span style="font-size:20px; font-weight:bold; color:#292c2e; text-align:left">Como está hoje</span>
                 </div>
                 <br><br>
                 <span style="font-size:16px; font-weight: normal; color:#292c2e; text-align:justify">{{today_0}}</span>
                 <br><br>
-                <div style="width: 100%; height: auto; place-items: center; padding-botton: 24px; padding-top: 32px;">
+                <div style="width: 100%; height: auto; place-items: center; margin: 48px 0 12px 0;">
                     <span style="font-size:20px; font-weight:bold; color:#292c2e; text-align:left">Como pode melhorar</span>
                 </div>
                 <br><br>
@@ -152,13 +152,13 @@ page_all = """
             <div class="mt-2 pt-2" style="text-align:left; margin-top: 2px; padding-top: 2px">
                 <span style="font-size:16px; font-weight: normal; color:#292c2e; text-align:justify">A gestão da qualidade se refere a um conjunto de práticas, processos e profissionais técnicos voltados para garantir que seus produtos, serviços ou processos atendam aos padrões e expectativas estabelecidos.&nbsp;</span>
                 <br><br>
-                <div style="width: 100%; height: auto;  place-items: center;  padding-botton: 24px; padding-top: 32px;">
+                <div style="width: 100%; height: auto;  place-items: center;  margin: 48px 0 12px 0;">
                     <span style="font-size:20px; font-weight:bold; color:#292c2e; text-align:left">Como está hoje</span>
                 </div>
                 <br><br>
                 <span style="font-size:16px; font-weight: normal; color:#292c2e; text-align:justify">{{today_1}}</span>
                 <br><br>
-                <div style="width: 100%; height: auto; place-items: center;  padding-botton: 24px; padding-top: 32px;">
+                <div style="width: 100%; height: auto; place-items: center;  margin: 48px 0 12px 0;">
                     <span style="font-size:20px; font-weight:bold; color:#292c2e; text-align:left;">Como pode melhorar</span>
                 </div>
                 <br><br>
@@ -181,13 +181,13 @@ page_all = """
             <div class="mt-2 pt-2" style="text-align:left; margin-top: 2px; padding-top: 2px">
                 <span style="font-size:16px; font-weight: normal; color:#292c2e; text-align:justify">As ferramentas de gestão de serviços ou de dados são softwares ou plataformas utilizadas para facilitar requisições, coletar dados, transformar processos, visualizar e interpretar insights significativos via relatórios. Essas ferramentas podem variar desde simples planilhas até sistemas mais avançados, como Business Intelligence (BI), softwares ITSM, CRM ou ERP. Elas permitem que as organizações explorem os dados, identifiquem padrões, façam previsões e tomem decisões informadas.&nbsp;</span>
                 <br><br>
-                <div style="width: 100%; height: auto;  place-items: center; padding-botton: 24px; padding-top: 32px;">
+                <div style="width: 100%; height: auto;  place-items: center; margin: 48px 0 12px 0;">
                     <span style="font-size:20px;  font-weight:bold; color:#292c2e; text-align:left">Como está hoje</span>
                 </div>
                 <br><br>
                 <span style="font-size:16px; font-weight: normal; color:#292c2e; text-align:justify">{{today_2}}</span>
                 <br><br>
-                <div style="width: 100%; height: auto; place-items: center; padding-botton: 24px; padding-top: 32px;">
+                <div style="width: 100%; height: auto; place-items: center; margin: 48px 0 12px 0;">
                     <span style="font-size:20px; font-weight:bold; color:#292c2e; text-align:left">Como pode melhorar</span>
                 </div>
                 <br><br>
@@ -210,13 +210,13 @@ page_all = """
             <div class="mt-2 pt-2" style="text-align:left; margin-top: 2px; padding-top: 2px">
                 <span style="font-size:16px; font-weight: normal; color:#292c2e; text-align:justify">A análise de dados é o processo de examinar, limpar, transformar e interpretar conjuntos de dados para identificar padrões, tendências, relações e insights relevantes. A análise de dados é frequentemente usada como base para a tomada de decisões informadas em uma organização. Ela permite que os gestores e profissionais examinem as informações disponíveis, compreendam as implicações das tendências e façam escolhas embasadas em evidências. Uma análise de dados sólida contribui para a redução de incertezas e riscos nas decisões empresariais, levando a melhores resultados.&nbsp;</span>
                 <br><br>
-                <div style="width: 100%; height: auto;  place-items: center; padding-botton: 24px; padding-top: 32px;">
+                <div style="width: 100%; height: auto;  place-items: center; margin: 48px 0 12px 0;">
                     <span style="font-size:20px; font-weight:bold; color:#292c2e; text-align:left">Como está hoje</span>
                 </div>
                 <br><br>
                 <span style="font-size:16px; font-weight: normal; color:#292c2e; text-align:justify">{{today_3}}</span>
                 <br><br>
-                <div style="width: 100%; height: auto; place-items: center; padding-botton: 24px; padding-top: 32px;">
+                <div style="width: 100%; height: auto; place-items: center; margin: 48px 0 12px 0;">
                     <span style="font-size:20px; font-weight:bold; color:#292c2e; text-align:left">Como pode melhorar</span>
                 </div>
                 <br><br>
@@ -239,13 +239,13 @@ page_all = """
         <div class="mt-2 pt-2" style="text-align:left; margin-top: 2px; padding-top: 2px">
             <span style="font-size:16px; font-weight: normal; color:#292c2e; text-align:justify">A gestão da informação envolve o processo de coleta, organização, armazenamento, recuperação e distribuição de informações de maneira eficiente e eficaz. A criação de procedimentos padrões, os ajustes de processos da área, a definição de um catálogo de serviços e a redefinição de prioridades garante que as informações sejam capturadas de forma precisa, estejam disponíveis quando necessário e sejam mantidas de maneira segura. Além disso, elas podem ser acessadas e compartilhadas de maneira colaborativa por toda a organização.&nbsp;</span>
             <br><br>
-            <div style="width: 100%; height: auto;  place-items: center;  padding-botton: 24px; padding-top: 32px;">
+            <div style="width: 100%; height: auto;  place-items: center;  margin: 48px 0 12px 0;">
                 <span style="font-size:20px; font-weight:bold; color:#292c2e; text-align:left">Como está hoje</span>
             </div>
             <br><br>
             <span style="font-size:16px; font-weight: normal; color:#292c2e; text-align:justify">{{today_4}}</span>
             <br><br>
-            <div style="width: 100%; height: auto; place-items: center; padding-botton: 24px; padding-top: 32px;">
+            <div style="width: 100%; height: auto; place-items: center; margin: 48px 0 12px 0;">
                 <span style="font-size:20px; font-weight:bold; color:#292c2e; text-align:left">Como pode melhorar</span>
             </div>
             <br><br>
@@ -268,13 +268,13 @@ page_all = """
         <div class="mt-2 pt-2" style="text-align:left; margin-top: 2px; padding-top: 2px">
             <span style="font-size:16px; font-weight: normal; color:#292c2e; text-align:justify">A governança de TI refere-se ao conjunto de políticas, processos, padrões e controles que garantem a qualidade, segurança, conformidade e uso responsável dos dados dentro de uma organização. Definir processos, documentos centralizados e controle do andamento de solicitações visa estabelecer responsabilidades claras para a gestão, uso e proteção dos dados, e conformidades garantidas. Quando focada em dados, também abrange a definição de metadados, a criação de regras para aquisição e integração de dados, a manutenção da consistência e a resolução de conflitos.&nbsp;</span>
             <br><br>
-            <div style="width: 100%; height: auto;  place-items: center; padding-botton: 24px; padding-top: 32px;">
+            <div style="width: 100%; height: auto;  place-items: center; margin: 48px 0 12px 0;">
                 <span style="font-size:20px; font-weight:bold; color:#292c2e; text-align:left">Como está hoje</span>
             </div>
             <br><br>
             <span style="font-size:16px; font-weight: normal; color:#292c2e; text-align:justify">{{today_5}}</span>
             <br><br>
-            <div style="width: 100%; height: auto; place-items: center; padding-botton: 24px; padding-top: 32px;">
+            <div style="width: 100%; height: auto; place-items: center; margin: 48px 0 12px 0;">
                 <span style="font-size:20px; font-weight:bold; color:#292c2e; text-align:left">Como pode melhorar</span>
             </div>
             <br><br>

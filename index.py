@@ -61,8 +61,6 @@ reshaped_df['Merged'] = reshaped_df["Pilar tecnológico"] + " - " + reshaped_df[
 df_pt['Merged'] = df_pt["Pilar tecnológico"] + " - " + df_pt["Resposta"]
 reshaped_df['Phone'] = reshaped_df['Telefone'].str.replace('-', '')
 
-print('reshaped_df', reshaped_df["Merged"])
-print('df_pt', df_pt["Merged"])
 # new_df = pd.concat([reshaped_df, df_pt], axis=1, sort=False)
 # new_df = reshaped_df.merge(df_pt, how="left", on="Merged")
 new_df = reshaped_df.merge(df_pt, on="Resposta", how="left")
@@ -84,7 +82,7 @@ name = new_df["Nome"].values[0]
 user_email = new_df["Email"].values[0]
 formatted_median = "{:.0f}%".format(pontuation_median)
 
-num_entries = 6  # You can adjust this to the number of entries you need
+num_entries = 6  # The number of questions that the user will answer
 
 values = []
 texts = []
