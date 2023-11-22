@@ -25,7 +25,7 @@ page_all = """
             <img class="w-full h-[300px]" src="https://images2.imgbox.com/f3/43/aktnFlnv_o.png" style="object-fit: cover; border-radius: 8px; width: 100%; height: 100%;" alt="" />
             <div style="position: relative; flex-direction: column; widhth: 100%; font-size: 54px; font-weight: bold; justify-content: center;" class="flex-col w-full text-[54px] font-bold">Sua organização atingiu <span style="color:#00b7bd;"> {{formatted_median}} </span> de maturidade digital.&nbsp;</div>
             <br><br>
-            <p style="font-size:24px; font-weight: normal; color:#292c2e; text-align: justify"><span style="font-size:24px; font-weight:bold; color:#292c2e; text-align: justify">{{business}}</span> está no rumo a maturidade de dados. Nesse relatório será apresentado um panorama geral da sua empresa, bem como dicas de como melhorar e potencializar cada pilar tecnológico. Vamos lá?!&nbsp;</p>
+            <p style="font-size:24px; font-weight: normal; color:#292c2e; text-align: justify">Ficamos felizes em saber que a <span style="font-size:24px; font-weight:bold; color:#292c2e; text-align: justify">{{business}}</span> está avançando em sua jornada digital. Nesse relatório você vai encontrar um panorama geral dos pilares tecnológicos da sua empresa, e como avançar em cada um deles. Prepare-se para subir o nível de maturidade digital da sua empresa!&nbsp;</p>
             <br><br>
             <div style="font-size: 46px; font-weight: bold; text-align: center; justify-content: center;" class="text-2xl font-bold text-center justify-center">
                 <span>Visão Geral</span>

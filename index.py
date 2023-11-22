@@ -159,7 +159,7 @@ page_all = page_all.replace("{{future_4}}", future_4)
 page_all = page_all.replace("{{today_5}}", today_5)
 page_all = page_all.replace("{{future_5}}", future_5)
 
-send_email_with_attachment(user_email, page_all)
+# send_email_with_attachment(user_email, page_all)
 st.download_button(label='Baixar', data=page_all, file_name='page_all.html')
 st.components.v1.html(page_all, height=6000)
 
